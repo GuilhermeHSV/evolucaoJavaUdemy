@@ -6,17 +6,11 @@ public class exercicio5 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Digite o código da peça 1: ");
-        int peca1 = scanner.nextInt();
-
         System.out.println("Digite o número de peças 1: ");
         int numPecas1 = scanner.nextInt();
 
         System.out.println("Digite o valor unitário de cada peça 1: ");
         double valorPeca1 = scanner.nextDouble();
-
-        System.out.println("Digite o código da peça 2: ");
-        int peca2 = scanner.nextInt();
 
         System.out.println("Digite o número de peças 2: ");
         int numPecas2 = scanner.nextInt();
